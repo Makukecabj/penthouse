@@ -1,0 +1,441 @@
+window.__CONFIG = {
+  "business": {
+    "name": "PENTHOUSE",
+    "short_name": "PENTHOUSE",
+    "tagline": "PENTHOUSE - Salta",
+    "description": "PENTHOUSE, tu alojamiento ideal en Salta.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Salta · Marcelo T. de Alvear 355",
+    "title_line1": "Vení a",
+    "title_em": "PENTHOUSE",
+    "title_line2": "",
+    "subtitle": "Habitaciones privadas y compartidas en Salta."
+  },
+  "location": {
+    "address": "Marcelo T. de Alvear 355, A4400 Salta",
+    "district": "Salta",
+    "city": "Salta",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Marcelo T. de Alvear 355, A4400 Salta, Salta",
+    "map_embed": "https://maps.google.com/maps?q=Marcelo+T.+de+Alvear+355%2C+A4400+Salta%2C+Salta&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Salta. Tu punto de partida para explorar.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5493875022632",
+    "phone": "+5493875022632",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/PENTHOUSE/data=!4m10!3m9!1s0x941bc30a9324b4c1:0x4fc3a99f2ce8dd51!5m2!4m1!1i2!8m2!3d-24.7848593!4d-65.4190666!16s%2Fg%2F11jybjfy39!19sChIJwbQkkwrDG5QRUd3oLJ-pw08?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/PENTHOUSE/data=!4m10!3m9!1s0x941bc30a9324b4c1:0x4fc3a99f2ce8dd51!5m2!4m1!1i2!8m2!3d-24.7848593!4d-65.4190666!16s%2Fg%2F11jybjfy39!19sChIJwbQkkwrDG5QRUd3oLJ-pw08?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Todo sobre nosotros",
+    "title": "Conocé PENTHOUSE.",
+    "paragraphs": [
+      "En PENTHOUSE vas a encontrar todo lo que necesitás para tu estadía en Salta: WiFi gratis, pileta, parrilla, cocina equipada y una ubicación ideal para recorrer la zona. Te esperamos."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Te respondemos en el día",
+    "Sin intermediarios ni comisiones ocultas",
+    "Somos viajeros como vos, te entendemos"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Dormí como en casa",
+      "description": "Colchones buenos, sabanas limpias, olvidate del insomnio.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi sin vueltas",
+      "description": "Te conectás y funciona, así de simple.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Ubicación top",
+      "description": "Todo lo que querés ver queda cerca.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Nicolás S.",
+      "rating": 5,
+      "text": "Perfecto para desconectar. Tranquilo, limpio y con espacios para compartir con otros viajeros."
+    },
+    {
+      "author": "Agustina L.",
+      "rating": 5,
+      "text": "La mejor elección de nuestro viaje. Todo impecable y la gente que atiende te hace sentir bienvenido."
+    },
+    {
+      "author": "Martín G.",
+      "rating": 5,
+      "text": "Fuimos con amigos y quedamos encantados. Limpio, cómodo y la onda del lugar espectacular."
+    },
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Aceptan mascotas?",
+      "answer": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+    },
+    {
+      "question": "¿Cómo reservo?",
+      "answer": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+    },
+    {
+      "question": "¿Cuánto queda para la playa/centro?",
+      "answer": "A pocas cuadras, caminando llegás en 5 minutos."
+    },
+    {
+      "question": "¿Se puede fumar?",
+      "answer": "En los espacios al aire libre, sí. Adentro no."
+    },
+    {
+      "question": "¿Cómo me muevo por la ciudad?",
+      "answer": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+    }
+  ],
+  "footer": {
+    "description": "PENTHOUSE",
+    "copyright": "© 2026 PENTHOUSE. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "PENTHOUSE",
+        "short_name": "PENTHOUSE",
+        "tagline": "PENTHOUSE - Accommodation",
+        "description": "PENTHOUSE, your ideal stay in Salta.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Salta · Marcelo T. de Alvear 355",
+        "title_line1": "Stay at",
+        "title_em": "PENTHOUSE",
+        "title_line2": "",
+        "subtitle": "Clean rooms, pool, BBQ and good vibes."
+      },
+      "about": {
+        "eyebrow": "Who we are",
+        "title": "PENTHOUSE, your base in Salta.",
+        "paragraphs": [
+          "PENTHOUSE awaits you in Salta with clean rooms, pool, BBQ, full kitchen and free WiFi. A quiet place to rest and from where you can explore the whole area."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Salta. Everything you want to see is nearby."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "What time can I check in and out?",
+          "answer": "We're flexible with times. Drop us a message and we'll work it out."
+        },
+        {
+          "question": "How far is the beach/downtown?",
+          "answer": "Just a few blocks, about a 5-minute walk."
+        },
+        {
+          "question": "Can I leave my luggage before check-in?",
+          "answer": "Of course! Drop your bags and come back later. We'll keep them safe."
+        },
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "How do I get around the city?",
+          "answer": "Reach out and we'll tell you the best transport options and what to visit nearby."
+        }
+      ],
+      "trust_bar": [
+        "Fast WhatsApp replies",
+        "No hidden fees or extra charges",
+        "Traveler-to-traveler advice"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Sarah K.",
+          "rating": 5,
+          "text": "Amazing hospitality from the moment we arrived. Great location and such a warm vibe."
+        },
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        },
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        },
+        {
+          "author": "Sofia R.",
+          "rating": 5,
+          "text": "The best choice of our whole trip. Spotless and the staff make you feel so welcome."
+        }
+      ],
+      "footer": {
+        "description": "PENTHOUSE",
+        "copyright": "© 2026 PENTHOUSE. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "PENTHOUSE",
+        "description": "Habitaciones cómodas y buena onda en PENTHOUSE, Salta.",
+        "url": "",
+        "telephone": "+5493875022632",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/PENTHOUSE/data=!4m10!3m9!1s0x941bc30a9324b4c1:0x4fc3a99f2ce8dd51!5m2!4m1!1i2!8m2!3d-24.7848593!4d-65.4190666!16s%2Fg%2F11jybjfy39!19sChIJwbQkkwrDG5QRUd3oLJ-pw08?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Marcelo T. de Alvear 355, A4400 Salta",
+          "addressLocality": "Salta",
+          "addressCountry": "AR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -24.7848785,
+          "longitude": -65.4190298
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Dormí como en casa",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi sin vueltas",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Ubicación top",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Aceptan mascotas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y vemos qué se puede hacer. Somos flexibles."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo reservo?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Mandanos un WhatsApp o un mail y te confirmamos al toque. Sin vueltas."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cuánto queda para la playa/centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pocas cuadras, caminando llegás en 5 minutos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede fumar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En los espacios al aire libre, sí. Adentro no."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo me muevo por la ciudad?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Te contamos cómo llegar, qué transporte conviene y qué visitar cuando nos escribas."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
