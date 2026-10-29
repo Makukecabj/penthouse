@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://penthouse.vercel.app/sitemap.xml
+Sitemap: https://penthouse-sooty-mu.vercel.app/sitemap.xml
